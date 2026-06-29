@@ -1,0 +1,82 @@
+[
+  {
+    "id": "n5_kanji_0001",
+    "level": "N5", "domain": "kanji", "type": "single_choice",
+    "prompt": { "zh": "這個漢字怎麼讀？", "en": "How is this kanji read?" },
+    "display": "山",
+    "options": ["やま", "かわ", "た", "き"],
+    "answer": 0,
+    "explanation": { "zh": "「山」訓讀 やま（山）。", "en": "「山」is read やま (mountain)." },
+    "chapter": "ch1", "tags": ["n5", "kanji", "reading", "needs_jp_proofread"], "difficulty": 1
+  },
+  {
+    "id": "n5_kanji_0002",
+    "level": "N5", "domain": "kanji", "type": "single_choice",
+    "prompt": { "zh": "這個漢字怎麼讀？", "en": "How is this kanji read?" },
+    "display": "川",
+    "options": ["かわ", "やま", "うみ", "そら"],
+    "answer": 0,
+    "explanation": { "zh": "「川」訓讀 かわ（河川）。", "en": "「川」is read かわ (river)." },
+    "chapter": "ch1", "tags": ["n5", "kanji", "reading", "needs_jp_proofread"], "difficulty": 1
+  },
+  {
+    "id": "n5_kanji_0003",
+    "level": "N5", "domain": "kanji", "type": "single_choice",
+    "prompt": { "zh": "這個漢字怎麼讀？", "en": "How is this kanji read?" },
+    "display": "水",
+    "options": ["みず", "ひ", "き", "つち"],
+    "answer": 0,
+    "explanation": { "zh": "「水」訓讀 みず（水）。", "en": "「水」is read みず (water)." },
+    "chapter": "ch1", "tags": ["n5", "kanji", "reading", "needs_jp_proofread"], "difficulty": 1
+  },
+  {
+    "id": "n5_kanji_0004",
+    "level": "N5", "domain": "kanji", "type": "single_choice",
+    "prompt": { "zh": "這個漢字怎麼讀？", "en": "How is this kanji read?" },
+    "display": "火",
+    "options": ["ひ", "みず", "かぜ", "つち"],
+    "answer": 0,
+    "explanation": { "zh": "「火」訓讀 ひ（火）。", "en": "「火」is read ひ (fire)." },
+    "chapter": "ch1", "tags": ["n5", "kanji", "reading", "homophone", "needs_jp_proofread"], "difficulty": 2
+  },
+  {
+    "id": "n5_kanji_0005",
+    "level": "N5", "domain": "kanji", "type": "single_choice",
+    "prompt": { "zh": "這個漢字怎麼讀？", "en": "How is this kanji read?" },
+    "display": "木",
+    "options": ["き", "いし", "かわ", "やま"],
+    "answer": 0,
+    "explanation": { "zh": "「木」訓讀 き（樹木）。", "en": "「木」is read き (tree)." },
+    "chapter": "ch1", "tags": ["n5", "kanji", "reading", "needs_jp_proofread"], "difficulty": 1
+  },
+  {
+    "id": "n5_kanji_0006",
+    "level": "N5", "domain": "kanji", "type": "single_choice",
+    "prompt": { "zh": "這個漢字怎麼讀？", "en": "How is this kanji read?" },
+    "display": "人",
+    "options": ["ひと", "いぬ", "ねこ", "とり"],
+    "answer": 0,
+    "explanation": { "zh": "「人」訓讀 ひと（人）。", "en": "「人」is read ひと (person)." },
+    "chapter": "ch1", "tags": ["n5", "kanji", "reading", "needs_jp_proofread"], "difficulty": 1
+  },
+  {
+    "id": "n5_kanji_0007",
+    "level": "N5", "domain": "kanji", "type": "single_choice",
+    "prompt": { "zh": "「大きい」怎麼讀？", "en": "How is 「大きい」 read?" },
+    "display": "大きい",
+    "options": ["おおきい", "ちいさい", "たかい", "ながい"],
+    "answer": 0,
+    "explanation": { "zh": "「大きい」讀 おおきい（大的）。", "en": "「大きい」is read おおきい (big)." },
+    "chapter": "ch1", "tags": ["n5", "kanji", "reading", "adjective", "needs_jp_proofread"], "difficulty": 2
+  },
+  {
+    "id": "n5_kanji_0008",
+    "level": "N5", "domain": "kanji", "type": "single_choice",
+    "prompt": { "zh": "「上」怎麼讀（位置：上面）？", "en": "How is 「上」(above) read?" },
+    "display": "上",
+    "options": ["うえ", "した", "なか", "そと"],
+    "answer": 0,
+    "explanation": { "zh": "「上」訓讀 うえ（上面）。注意它也有音讀 じょう。", "en": "「上」is read うえ (above); also has on-reading じょう." },
+    "chapter": "ch1", "tags": ["n5", "kanji", "reading", "homophone", "needs_jp_proofread"], "difficulty": 2
+  }
+]

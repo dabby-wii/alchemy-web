@@ -1,0 +1,54 @@
+[
+  {
+    "id": "n5_reading_0001",
+    "level": "N5", "domain": "reading", "type": "single_choice",
+    "passage": {
+      "zh": "わたしは まいにち 7じに おきます。あさごはんを たべて、がっこうへ いきます。",
+      "en": "わたしは まいにち 7じに おきます。あさごはんを たべて、がっこうへ いきます。"
+    },
+    "prompt": { "zh": "「我」每天幾點起床？", "en": "What time does the writer get up every day?" },
+    "options": ["7時", "8時", "6時", "9時"],
+    "answer": 0,
+    "explanation": { "zh": "文中說「7じに おきます」。", "en": "The text says 「get up at 7」." },
+    "chapter": "ch1", "tags": ["n5", "reading", "short", "needs_jp_proofread"], "difficulty": 2
+  },
+  {
+    "id": "n5_reading_0002",
+    "level": "N5", "domain": "reading", "type": "single_choice",
+    "passage": {
+      "zh": "きのう ともだちと えいがを みました。とても おもしろかったです。",
+      "en": "きのう ともだちと えいがを みました。とても おもしろかったです。"
+    },
+    "prompt": { "zh": "昨天做了什麼？", "en": "What did the writer do yesterday?" },
+    "options": ["看電影", "看書", "運動", "購物"],
+    "answer": 0,
+    "explanation": { "zh": "「えいがを みました」＝看了電影。", "en": "「えいがを みました」= watched a movie." },
+    "chapter": "ch1", "tags": ["n5", "reading", "short", "needs_jp_proofread"], "difficulty": 2
+  },
+  {
+    "id": "n5_reading_0003",
+    "level": "N5", "domain": "reading", "type": "single_choice",
+    "passage": {
+      "zh": "この みせの ラーメンは やすくて おいしいです。",
+      "en": "この みせの ラーメンは やすくて おいしいです。"
+    },
+    "prompt": { "zh": "這家店的拉麵如何？", "en": "What is this shop's ramen like?" },
+    "options": ["便宜又好吃", "貴又難吃", "便宜但難吃", "貴但好吃"],
+    "answer": 0,
+    "explanation": { "zh": "「やすくて おいしい」＝又便宜又好吃。", "en": "「やすくて おいしい」= cheap and tasty." },
+    "chapter": "ch1", "tags": ["n5", "reading", "short", "needs_jp_proofread"], "difficulty": 2
+  },
+  {
+    "id": "n5_reading_0004",
+    "level": "N5", "domain": "reading", "type": "single_choice",
+    "passage": {
+      "zh": "わたしの へやには つくえと いすが あります。ベッドは ありません。",
+      "en": "わたしの へやには つくえと いすが あります。ベッドは ありません。"
+    },
+    "prompt": { "zh": "房間裡「沒有」什麼？", "en": "What is NOT in the room?" },
+    "options": ["床", "桌子", "椅子", "窗戶"],
+    "answer": 0,
+    "explanation": { "zh": "「ベッドは ありません」＝沒有床。", "en": "「ベッドは ありません」= there is no bed." },
+    "chapter": "ch1", "tags": ["n5", "reading", "short", "needs_jp_proofread"], "difficulty": 3
+  }
+]

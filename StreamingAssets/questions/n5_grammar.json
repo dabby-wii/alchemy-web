@@ -1,0 +1,122 @@
+[
+  {
+    "id": "n5_grammar_0001",
+    "level": "N5", "domain": "grammar", "type": "single_choice",
+    "prompt": { "zh": "填入正確的助詞？", "en": "Choose the correct particle." },
+    "display": "これ＿ペンです",
+    "options": ["は", "を", "に", "へ"],
+    "answer": 0,
+    "explanation": { "zh": "「は」是主題助詞：これは＝「這個是」。", "en": "「は」marks the topic: これは = \"this is\"." },
+    "chapter": "ch1", "tags": ["n5", "grammar", "particle", "needs_jp_proofread"], "difficulty": 1
+  },
+  {
+    "id": "n5_grammar_0002",
+    "level": "N5", "domain": "grammar", "type": "single_choice",
+    "prompt": { "zh": "填入正確的助詞？", "en": "Choose the correct particle." },
+    "display": "りんご＿食べます",
+    "options": ["が", "を", "に", "で"],
+    "answer": 1,
+    "explanation": { "zh": "「を」標示動作的受詞：りんごを食べます。", "en": "「を」marks the direct object: 「eat an apple」." },
+    "chapter": "ch1", "tags": ["n5", "grammar", "particle", "needs_jp_proofread"], "difficulty": 1
+  },
+  {
+    "id": "n5_grammar_0003",
+    "level": "N5", "domain": "grammar", "type": "single_choice",
+    "prompt": { "zh": "填入正確的助詞？", "en": "Choose the correct particle." },
+    "display": "学校＿行きます",
+    "options": ["に", "を", "は", "が"],
+    "answer": 0,
+    "explanation": { "zh": "「に」標示移動的目的地（へ 亦可）：学校に行きます。", "en": "「に」marks the destination of movement (「へ」also works)." },
+    "chapter": "ch1", "tags": ["n5", "grammar", "particle", "needs_jp_proofread"], "difficulty": 1
+  },
+  {
+    "id": "n5_grammar_0004",
+    "level": "N5", "domain": "grammar", "type": "single_choice",
+    "prompt": { "zh": "填入正確的助詞？", "en": "Choose the correct particle." },
+    "display": "ペン＿書きます",
+    "options": ["で", "を", "に", "が"],
+    "answer": 0,
+    "explanation": { "zh": "「で」標示手段／工具：ペンで書きます＝「用筆寫」。", "en": "「で」marks the means/tool: 「write with a pen」." },
+    "chapter": "ch1", "tags": ["n5", "grammar", "particle", "needs_jp_proofread"], "difficulty": 1
+  },
+  {
+    "id": "n5_grammar_0005",
+    "level": "N5", "domain": "grammar", "type": "single_choice",
+    "prompt": { "zh": "填入正確的助詞？", "en": "Choose the correct particle." },
+    "display": "友達＿話します",
+    "options": ["と", "を", "に", "が"],
+    "answer": 0,
+    "explanation": { "zh": "「と」表示共同動作的對象：友達と話します＝「和朋友說話」。", "en": "「と」marks the co-actor: 「talk with a friend」." },
+    "chapter": "ch1", "tags": ["n5", "grammar", "particle", "needs_jp_proofread"], "difficulty": 2
+  },
+  {
+    "id": "n5_grammar_0006",
+    "level": "N5", "domain": "grammar", "type": "single_choice",
+    "prompt": { "zh": "填入正確的助詞？", "en": "Choose the correct particle." },
+    "display": "7時＿起きます",
+    "options": ["に", "で", "を", "へ"],
+    "answer": 0,
+    "explanation": { "zh": "「に」標示具體時間點：7時に起きます。", "en": "「に」marks a specific point in time: 「wake up at 7」." },
+    "chapter": "ch1", "tags": ["n5", "grammar", "particle", "needs_jp_proofread"], "difficulty": 2
+  },
+  {
+    "id": "n5_grammar_0007",
+    "level": "N5", "domain": "grammar", "type": "single_choice",
+    "prompt": { "zh": "填入正確的助詞？", "en": "Choose the correct particle." },
+    "display": "日本語＿分かります",
+    "options": ["が", "を", "に", "は"],
+    "answer": 0,
+    "explanation": { "zh": "「分かる」用「が」標示理解的對象：日本語が分かります。", "en": "「分かる」takes 「が」for the thing understood." },
+    "chapter": "ch1", "tags": ["n5", "grammar", "particle", "needs_jp_proofread"], "difficulty": 2
+  },
+  {
+    "id": "n5_grammar_0008",
+    "level": "N5", "domain": "grammar", "type": "single_choice",
+    "prompt": { "zh": "填入正確的助詞？", "en": "Choose the correct particle." },
+    "display": "母＿電話します",
+    "options": ["に", "を", "が", "で"],
+    "answer": 0,
+    "explanation": { "zh": "「に」標示動作的對象：母に電話します＝「打電話給媽媽」。", "en": "「に」marks the target of the action: 「call mother」." },
+    "chapter": "ch1", "tags": ["n5", "grammar", "particle", "needs_jp_proofread"], "difficulty": 2
+  },
+  {
+    "id": "n5_grammar_0009",
+    "level": "N5", "domain": "grammar", "type": "single_choice",
+    "prompt": { "zh": "填入正確的助詞？", "en": "Choose the correct particle." },
+    "display": "バス＿行きます",
+    "options": ["で", "に", "を", "へ"],
+    "answer": 0,
+    "explanation": { "zh": "「で」標示交通工具：バスで行きます＝「搭巴士去」。", "en": "「で」marks transport: 「go by bus」." },
+    "chapter": "ch1", "tags": ["n5", "grammar", "particle", "needs_jp_proofread"], "difficulty": 2
+  },
+  {
+    "id": "n5_grammar_0010",
+    "level": "N5", "domain": "grammar", "type": "single_choice",
+    "prompt": { "zh": "填入正確的助詞？", "en": "Choose the correct particle." },
+    "display": "水＿飲みます",
+    "options": ["を", "が", "に", "で"],
+    "answer": 0,
+    "explanation": { "zh": "「を」標示受詞：水を飲みます＝「喝水」。", "en": "「を」marks the object: 「drink water」." },
+    "chapter": "ch1", "tags": ["n5", "grammar", "particle", "needs_jp_proofread"], "difficulty": 1
+  },
+  {
+    "id": "n5_grammar_0011",
+    "level": "N5", "domain": "grammar", "type": "single_choice",
+    "prompt": { "zh": "填入正確的助詞？", "en": "Choose the correct particle." },
+    "display": "教室＿先生がいます",
+    "options": ["に", "を", "へ", "が"],
+    "answer": 0,
+    "explanation": { "zh": "存在句用「に」標示地點：教室に先生がいます。", "en": "Existence sentences use 「に」for location: 「the teacher is in the classroom」." },
+    "chapter": "ch1", "tags": ["n5", "grammar", "particle", "needs_jp_proofread"], "difficulty": 3
+  },
+  {
+    "id": "n5_grammar_0012",
+    "level": "N5", "domain": "grammar", "type": "single_choice",
+    "prompt": { "zh": "填入正確的助詞？", "en": "Choose the correct particle." },
+    "display": "土曜日＿映画を見ました",
+    "options": ["に", "で", "を", "と"],
+    "answer": 0,
+    "explanation": { "zh": "星期幾用「に」標示時間：土曜日に＝「在星期六」。", "en": "Days of the week take 「に」: 「on Saturday」." },
+    "chapter": "ch1", "tags": ["n5", "grammar", "particle", "needs_jp_proofread"], "difficulty": 3
+  }
+]
